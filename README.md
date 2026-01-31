@@ -1,16 +1,15 @@
-## Hi there 👋
+### Shashank Kulkarni
 
-<!--
-**NotShashankKulkarni/NotShashankKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics engineering student focused on FPGA-based and low-latency digital systems.  
+Interested in deterministic RTL design, hardware data paths, and performance-critical systems.
 
-Here are some ideas to get you started:
+#### Areas of work
+- FPGA and RTL design (SystemVerilog / Verilog)
+- Low-latency pipelines and fixed-latency architectures
+- Hardware protocol parsing (AXI-Stream, Ethernet/UDP)
+- Analog and mixed-signal circuit design (OTA, stability analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current focus
+- FPGA-based limit order book and market data pipelines
+- Timing-aware RTL design and verification
+
